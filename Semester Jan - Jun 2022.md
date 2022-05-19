@@ -1,6 +1,7 @@
 ### Please follow the following format: ###
 
-* WILPID ||     Student Name ||        [link to Page!](http://google.com)
-* Student 2
-* Student 3
-* Student 4
+* 2020MT93596 ||     Sri Rangarajan ||        [Calculator Application Group 28](https://rangabits.github.io/calculator_application/)
+* 2020MT93733 ||     Anirudh Iyengar
+* 2020MT93727 ||     Asvita S
+* 2020MT93702 ||     Chavan Milind Shivaji
+* 2020MT93612 ||     Sayani Majumder
